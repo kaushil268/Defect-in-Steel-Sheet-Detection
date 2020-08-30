@@ -14,3 +14,9 @@ file description
 * test_images/ - folder of test images (you are segmenting and classifying these images)
 * train.csv - training annotations which provide segments for defects (ClassId = [1, 2, 3, 4])
 
+This project aims at developing an algorithm for localizing and classifying surface defects on a steel sheet.
+
+Computer Vision has been used to identify, localize and mark boundary around the defect part soa s to take required decisions by engineers using it.
+
+
+
